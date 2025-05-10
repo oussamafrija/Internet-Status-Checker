@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: monospace;
+    background: linear-gradient(to right, skyblue, blue);
+}
+
+.container{
+    max-width: 600px;
+    margin: 200px auto;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 25px rgba(90, 87, 87, 0.3);
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
